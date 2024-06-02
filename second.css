@@ -1,0 +1,227 @@
+*{
+ margin: 0;  
+ padding: 0;
+ box-sizing: border-box;
+}
+
+header img {
+    width: 200px;
+    height:200px ;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+    color: #FAA300;
+    background: #10439F;
+    border-radius: 13px;
+    padding: 10px;
+    font-size: 20px;
+    font-family: Comic Sans MS, Comic Sans, cursive	;
+        transition: 1s;
+   box-shadow: 10px 5px 5px gray;
+    margin-left: 15px;
+}
+
+.back img{
+    width: 100%;
+    height: 35%;
+    opacity: 70%;
+}
+
+a:hover {
+    background-color: #FAA300;
+    color: #10439F;
+    transition: 1s;
+}
+footer{
+    padding: 20px;
+        background-color: #F7EEDD;
+}
+footer p {
+    color: #FAA300;
+    text-align: center;
+}
+
+main img {
+    width: 30%;
+   border: 5px double #FBA834;
+   padding: 15px;
+text-align: center;
+}
+
+.maps{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.maps img{
+    object-fit: cover;
+}
+.maps-block{
+    text-align: center;
+    width: 350px;
+    border: 2px solid blue;
+    margin: 10px;
+    padding: 10px;
+     transition: 1s;
+    
+}
+.maps-block img{
+    width: 100%;
+}
+
+.maps-block1{
+    text-align: center;
+    width: 350px;
+    border: 2px solid blue;
+    margin: 10px;
+    padding: 10px;
+     transition: 1s;
+}
+
+.maps-block1 img{
+    width: 100%;
+}
+
+.maps-block2{
+    text-align: center;
+    width: 350px;
+    border: 2px solid blue;
+    margin: 10px;
+    padding: 10px;
+     transition: 1s;
+}
+
+.maps-block2 img{
+    width: 100%;
+}
+
+.maps-block3{
+    text-align: center;
+    width: 350px;
+    border: 2px solid blue;
+    margin: 10px;
+    padding: 10px;
+     transition: 1s;
+}
+
+.maps-block3 img{
+    width: 100%;
+}
+
+.maps-block4{
+    text-align: center;
+    width: 350px;
+    border: 2px solid blue;
+    margin: 10px;
+    padding: 10px;
+     transition: 1s;
+}
+
+.maps-block4 img{
+    width: 100%;
+}
+
+.maps-block5{
+    text-align: center;
+    width: 350px;
+    border: 2px solid blue;
+    margin: 10px;
+    padding: 10px;
+     transition: 1s;
+}
+
+.maps-block5 img{
+    width: 100%;
+}
+
+.maps-block6{
+    text-align: center;
+    width: 350px;
+    border:2px solid blue ;
+    margin: 10px;
+    padding: 10px;
+     transition: 1s;
+     
+}
+
+.maps-block6 img{
+    width: 100%;
+    height: 200px;
+}
+
+.maps-block7{
+    text-align: center;
+    width: 350px;
+    border: 2px solid blue;
+    margin: 10px;
+    padding: 10px;
+     transition: 1s;
+}
+
+.maps-block7 img{
+    width: 100%;
+}
+
+.maps-block8{
+    text-align: center;
+    width: 350px;
+    border: 2px solid blue;
+    margin: 10px;
+    padding: 10px;
+     transition: 1s;
+}
+
+.maps-block8 img{
+    width: 100%;
+}
+
+.maps-block:hover {
+    box-shadow: 10px 10px 10px gray;
+    transition: 1s;
+}
+
+.maps-block1:hover {
+    box-shadow: 10px 10px 10px gray;
+     transition: 1s;
+}
+
+.maps-block2:hover {
+    box-shadow: 10px 10px 10px gray;
+     transition: 1s;
+}
+
+.maps-block3:hover {
+    box-shadow: 10px 10px 10px gray;
+     transition: 1s;
+}
+
+.maps-block4:hover {
+    box-shadow: 10px 10px 10px gray;
+     transition: 1s;
+}
+
+.maps-block5:hover {
+    box-shadow: 10px 10px 10px gray;
+     transition: 1s;
+}
+
+.maps-block6:hover {
+    box-shadow: 10px 10px 10px gray;
+     transition: 1s;
+}
+
+.maps-block7:hover {
+    box-shadow: 10px 10px 10px gray;
+     transition: 1s;
+}
+
+.maps-block8:hover {
+    box-shadow: 10px 10px 10px gray;
+     transition: 1s;
+}
